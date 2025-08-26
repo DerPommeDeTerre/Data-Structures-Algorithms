@@ -1,0 +1,8 @@
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\bin\Debug\Arrays_Stacks_LLists.exe.config
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\bin\Debug\Arrays_Stacks_LLists.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\bin\Debug\Arrays_Stacks_LLists.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\obj\Debug\Arrays_Stacks_LLists.csproj.AssemblyReference.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\obj\Debug\Arrays_Stacks_LLists.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\obj\Debug\Arrays_Stacks_LLists.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\obj\Debug\Arrays_Stacks_LLists.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays Stacks Linked Lists\Arrays_Stacks_LLists\obj\Debug\Arrays_Stacks_LLists.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\obj\Debug\StacksQueues.csproj.AssemblyReference.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\obj\Debug\StacksQueues.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\bin\Debug\StacksQueues.exe.config
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\bin\Debug\StacksQueues.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\bin\Debug\StacksQueues.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\obj\Debug\StacksQueues.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\obj\Debug\StacksQueues.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Stacks and Queues\StacksQueues\obj\Debug\StacksQueues.exe.config

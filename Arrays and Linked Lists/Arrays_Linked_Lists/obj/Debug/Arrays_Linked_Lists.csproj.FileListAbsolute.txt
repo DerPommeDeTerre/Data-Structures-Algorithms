@@ -1,0 +1,8 @@
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\bin\Debug\Arrays_Linked_Lists.exe.config
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\bin\Debug\Arrays_Linked_Lists.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\bin\Debug\Arrays_Linked_Lists.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\obj\Debug\Arrays_Linked_Lists.csproj.AssemblyReference.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\obj\Debug\Arrays_Linked_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\obj\Debug\Arrays_Linked_Lists.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\obj\Debug\Arrays_Linked_Lists.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Arrays and Linked Lists\Arrays_Linked_Lists\obj\Debug\Arrays_Linked_Lists.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\bin\Debug\Big_O_Notation.exe.config
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\bin\Debug\Big_O_Notation.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\bin\Debug\Big_O_Notation.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\obj\Debug\Big_O_Notation.csproj.AssemblyReference.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\obj\Debug\Big_O_Notation.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\obj\Debug\Big_O_Notation.exe
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\obj\Debug\Big_O_Notation.pdb
+C:\Users\Propietario\Documents\VISUAL STUDIO\Algorithms and Data Structures\Big_O_Notation\obj\Debug\Big_O_Notation.exe.config
