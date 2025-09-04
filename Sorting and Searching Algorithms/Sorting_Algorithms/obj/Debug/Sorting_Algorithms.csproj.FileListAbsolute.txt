@@ -1,0 +1,8 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.exe.config
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\bin\Debug\Sorting_Algorithms.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Sorting_Algorithms\obj\Debug\Sorting_Algorithms.exe.config

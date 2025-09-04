@@ -1,0 +1,8 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\bin\Debug\Bubble_Sort.exe.config
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Bubble_Sort\obj\Debug\Bubble_Sort.exe.config

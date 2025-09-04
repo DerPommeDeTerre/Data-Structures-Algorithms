@@ -1,0 +1,8 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\bin\Debug\Quicksort_MergeSort.exe.config
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\bin\Debug\Quicksort_MergeSort.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\bin\Debug\Quicksort_MergeSort.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\obj\Debug\Quicksort_MergeSort.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\obj\Debug\Quicksort_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\obj\Debug\Quicksort_MergeSort.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\obj\Debug\Quicksort_MergeSort.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\Quicksort_MergeSort\obj\Debug\Quicksort_MergeSort.exe.config
