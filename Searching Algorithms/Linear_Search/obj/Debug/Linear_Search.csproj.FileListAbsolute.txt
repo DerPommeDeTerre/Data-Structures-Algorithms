@@ -1,0 +1,7 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\bin\Debug\Linear_Search.exe.config
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\bin\Debug\Linear_Search.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\bin\Debug\Linear_Search.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\obj\Debug\Linear_Search.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\obj\Debug\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\obj\Debug\Linear_Search.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Searching Algorithms\Linear_Search\obj\Debug\Linear_Search.pdb
