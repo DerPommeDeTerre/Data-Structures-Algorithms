@@ -14,13 +14,13 @@ namespace Binary_Search {
             
             while(left <= right) {
                 int mid = left + (right - left) / 2; //MIDDLE index calculation
-                if (arr[mid] == target) {
+                if (arr[mid] == target) { //Returns value if middle == target
                     Console.WriteLine("Middle is: " + arr[mid]);
                     return mid;
-                } else if (arr[mid] < target) {
+                } else if (arr[mid] < target) { //Search on RIGHT half
                     Console.WriteLine("Middle is: " + arr[mid]);
                     left = mid + 1;
-                } else {
+                } else { //Search on LEFT half
                     Console.WriteLine("Middle is: " + arr[mid]);
                     right = mid - 1;
                 }
