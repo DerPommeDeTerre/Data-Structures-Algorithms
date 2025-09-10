@@ -1,0 +1,8 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\bin\Debug\LinkedList_EXTRA.exe.config
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\bin\Debug\LinkedList_EXTRA.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\bin\Debug\LinkedList_EXTRA.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\obj\Debug\LinkedList_EXTRA.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\obj\Debug\LinkedList_EXTRA.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\obj\Debug\LinkedList_EXTRA.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\obj\Debug\LinkedList_EXTRA.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Extras\LinkedList_EXTRA\obj\Debug\LinkedList_EXTRA.exe.config
