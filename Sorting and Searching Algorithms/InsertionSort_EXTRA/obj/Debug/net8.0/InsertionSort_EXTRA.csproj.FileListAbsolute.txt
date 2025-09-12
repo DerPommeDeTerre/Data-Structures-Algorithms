@@ -1,0 +1,15 @@
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\bin\Debug\net8.0\InsertionSort_EXTRA.exe
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\bin\Debug\net8.0\InsertionSort_EXTRA.deps.json
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\bin\Debug\net8.0\InsertionSort_EXTRA.runtimeconfig.json
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\bin\Debug\net8.0\InsertionSort_EXTRA.dll
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\bin\Debug\net8.0\InsertionSort_EXTRA.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.sourcelink.json
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.dll
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\refint\InsertionSort_EXTRA.dll
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.pdb
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\InsertionSort_EXTRA.genruntimeconfig.cache
+C:\Users\Propietario\source\repos\Data Structures Algorithms\Sorting and Searching Algorithms\InsertionSort_EXTRA\obj\Debug\net8.0\ref\InsertionSort_EXTRA.dll
